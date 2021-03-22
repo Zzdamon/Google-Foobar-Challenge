@@ -1,6 +1,4 @@
-package google.foobar.challenges.challenge2;
 
-public class Solution {
 	package google.foobar.challenges.challenge2;
 
 	public class Solution {
@@ -42,4 +40,4 @@ public class Solution {
 		    }
 	}
 
-}
+
